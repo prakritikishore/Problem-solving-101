@@ -1,7 +1,5 @@
 # **Problem-solving-101**
 
-## *I have create this repo to keep a track on my Problem solving progress*
-
 ----------------------------------------------------------
 ----------------------------------------------------------
 
