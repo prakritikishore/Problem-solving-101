@@ -5,8 +5,8 @@
 
 ## _**Arrays**_
 
-- [ ] Sort an array of 0’s 1’s 2’s without using extra space or sorting algo 
-- [ ] Repeat and Missing Number 
+- [x] Sort an array of 0’s 1’s 2’s without using extra space or sorting algo 
+- [x] Repeat and Missing Number 
 - [ ] Merge two sorted Arrays without extra space
 - [ ] Kadane’s Algorithm 
 - [ ] Merge Overlapping Subintervals
