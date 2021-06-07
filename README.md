@@ -7,12 +7,12 @@
 
 - [x] Sort an array of 0’s 1’s 2’s without using extra space or sorting algo 
 - [x] Repeat and Missing Number 
-- [ ] Merge two sorted Arrays without extra space
-- [ ] Kadane’s Algorithm 
-- [ ] Merge Overlapping Subintervals
-- [ ] Find the duplicate in an array of N+1 integers. 
-- [ ] Set Matrix Zeros 
-- [ ] Pascal Triangle 
+- [x] Merge two sorted Arrays without extra space
+- [x] Kadane’s Algorithm 
+- [x] Merge Overlapping Subintervals
+- [x] Find the duplicate in an array of N+1 integers. 
+- [x] Set Matrix Zeros 
+- [x] Pascal Triangle 
 - [ ] Next Permutation 
 - [ ] Inversion of Array (Using Merge Sort) 
 - [ ] Stock Buy and Sell 
