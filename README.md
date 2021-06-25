@@ -37,12 +37,12 @@
 
 ## _**LinkedList**_
 
-- [ ] Reverse a LinkedList 
+- [x] Reverse a LinkedList 
 - [ ] Find middle of LinkedList 
-- [ ] Merge two sorted Linked List 
+- [x] Merge two sorted Linked List 
 - [ ] Remove N-th node from back of LinkedList 
 - [ ] Delete a given Node when a node is given. (0(1) solution) 
-- [ ] Add two numbers as LinkedList   
+- [x] Add two numbers as LinkedList   
 - [ ] Find intersection point of Y LinkedList 
 - [ ] Detect a cycle in Linked List
 - [ ] Reverse a LinkedList in groups of size k. 
