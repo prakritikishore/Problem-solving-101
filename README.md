@@ -55,7 +55,7 @@
 ## _**2-pointer**_
 
 - [ ] Clone a Linked List with random and next pointer
-- [ ] 3 sum 
+- [x] 3 sum 
 - [ ] Trapping rainwater  
 - [ ] Remove Duplicate from Sorted array 
 - [ ] Max consecutive ones  
